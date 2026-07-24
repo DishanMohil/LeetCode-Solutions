@@ -18,8 +18,13 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
