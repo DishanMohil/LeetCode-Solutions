@@ -9,6 +9,7 @@
 | [0013-roman-to-integer](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0204-count-primes) |
+| [2197-replace-non-coprime-numbers-in-array](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/2197-replace-non-coprime-numbers-in-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,6 +35,7 @@
 | [0739-daily-temperatures](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2197-replace-non-coprime-numbers-in-array](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/2197-replace-non-coprime-numbers-in-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -57,6 +59,7 @@
 | [0496-next-greater-element-i](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [2197-replace-non-coprime-numbers-in-array](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/2197-replace-non-coprime-numbers-in-array) |
 ## Design
 |  |
 | ------- |
@@ -74,6 +77,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0204-count-primes) |
+| [2197-replace-non-coprime-numbers-in-array](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/2197-replace-non-coprime-numbers-in-array) |
 ## Sorting
 |  |
 | ------- |
