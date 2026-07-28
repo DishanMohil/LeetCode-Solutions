@@ -32,6 +32,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0739-daily-temperatures](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -71,4 +72,12 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0204-count-primes) |
+## Sorting
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
