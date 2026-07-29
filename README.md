@@ -28,6 +28,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0496-next-greater-element-i](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
@@ -44,6 +45,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Sliding Window
@@ -86,4 +88,8 @@
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
