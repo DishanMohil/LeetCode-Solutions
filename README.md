@@ -16,6 +16,7 @@
 | [0013-roman-to-integer](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0076-minimum-window-substring](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0496-next-greater-element-i](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
 | ------- |
@@ -35,6 +36,7 @@
 | [0204-count-primes](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0496-next-greater-element-i](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0739-daily-temperatures](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -101,4 +103,8 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
