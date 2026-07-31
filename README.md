@@ -30,6 +30,7 @@
 | [0018-4sum](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0046-permutations](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0078-subsets) |
@@ -111,6 +112,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
