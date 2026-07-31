@@ -1,46 +1,30 @@
 class Solution {
 public:
     string minWindow(string s, string t) {
-        map<char,int> freq;
-        int need = 0;
-
-        for(int i = 0; i<t.length(); i++){
+        map<char,int> freq; int need = 0; string ans = ""; int a = -1;
+        if(s.length() < t.length()) return "";
+        for(int i = 0; i < t.length(); i++){
             freq[t[i]]++;
             need++;
         }
-
-        map<char,int> wfreq;
-        string str = "";
-        int left = 0; int ans = -1, len = INT_MAX; 
-
-        if(s.length()<t.length()) return "";
-
-        for(int right = 0; right<s.length(); right++){
-            wfreq[s[right]]++;
-
-            if(freq.contains(s[right]) && wfreq[s[right]] <= freq[s[right]]){
+        int l = 0; int len = INT_MAX;
+        for(int r = 0; r<s.length(); r++){
+            if(freq[s[r]] > 0){
                 need--;
             }
-
+            freq[s[r]]--;
             while(need == 0){
-
-                if(len > right + 1- left){
-                    ans = left; len = right + 1 - left;
+                if(len > r+1-l){
+                    a = l; len = r+1-l;
                 }
-                wfreq[s[left]]--;
-
-                if(freq.contains(s[left]) && wfreq[s[left]]+1 <= freq[s[left]]){
+                freq[s[l]]++;
+                if(freq[s[l]] > 0){
                     need++;
                 }
-
-                if(wfreq[s[left]]==0){
-                    wfreq.erase(s[left]);
-                }
-
-                left++;
+                l++;
             }
-            if(ans != -1) str = s.substr(ans, len);
         }
-        return str;
+        if(a != -1) ans = s.substr(a,len);
+        return ans;
     }
 };
