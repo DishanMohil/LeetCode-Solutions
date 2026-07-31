@@ -32,6 +32,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0054-spiral-matrix](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0496-next-greater-element-i](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
@@ -107,4 +108,12 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
