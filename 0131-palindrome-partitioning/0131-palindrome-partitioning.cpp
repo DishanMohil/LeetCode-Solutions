@@ -4,10 +4,7 @@ public:
     bool istrue(string p){
         string str = p;
         reverse(p.begin(),p.end());
-        if(p==str){
-            return true;
-        }
-        return false;
+        return str == p;
     }
 
     void solve(vector<vector<string>>& ans, vector<string> part, string s){
