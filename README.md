@@ -25,6 +25,7 @@
 | [0013-roman-to-integer](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
+| [0131-palindrome-partitioning](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Array
 |  |
@@ -128,6 +129,7 @@
 | [0047-permutations-ii](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0078-subsets) |
+| [0131-palindrome-partitioning](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -141,4 +143,8 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
