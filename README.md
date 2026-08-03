@@ -52,6 +52,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/2197-replace-non-coprime-numbers-in-array) |
+| [2596-check-knight-tour-configuration](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/2596-check-knight-tour-configuration) |
 ## Two Pointers
 |  |
 | ------- |
@@ -113,10 +114,12 @@
 | [0037-sudoku-solver](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [2596-check-knight-tour-configuration](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/2596-check-knight-tour-configuration) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+| [2596-check-knight-tour-configuration](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/2596-check-knight-tour-configuration) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -148,4 +151,12 @@
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
+## Depth-First Search
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/2596-check-knight-tour-configuration) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/2596-check-knight-tour-configuration) |
 <!---LeetCode Topics End-->
