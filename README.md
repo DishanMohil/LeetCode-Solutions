@@ -10,6 +10,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/2197-replace-non-coprime-numbers-in-array) |
+| [2235-add-two-integers](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/2235-add-two-integers) |
 ## Hash Table
 |  |
 | ------- |
