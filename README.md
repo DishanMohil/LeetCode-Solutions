@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+| [0037-sudoku-solver](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0496-next-greater-element-i](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -30,6 +31,7 @@
 | [0018-4sum](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0037-sudoku-solver](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0047-permutations-ii) |
@@ -103,6 +105,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 ## Simulation
@@ -116,6 +119,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0047-permutations-ii) |
@@ -128,5 +132,10 @@
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0051-n-queens) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
