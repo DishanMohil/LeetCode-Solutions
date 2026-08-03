@@ -33,6 +33,7 @@
 | [0039-combination-sum](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0078-subsets) |
@@ -118,9 +119,14 @@
 | [0039-combination-sum](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0078-subsets) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
