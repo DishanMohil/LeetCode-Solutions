@@ -20,6 +20,7 @@
 | [0076-minimum-window-substring](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0496-next-greater-element-i](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [3731-find-missing-elements](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -53,6 +54,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2596-check-knight-tour-configuration](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/2596-check-knight-tour-configuration) |
+| [3731-find-missing-elements](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -103,6 +105,7 @@
 | [0018-4sum](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3731-find-missing-elements](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
