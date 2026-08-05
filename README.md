@@ -60,6 +60,7 @@
 | ------- |
 | [0018-4sum](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0876-middle-of-the-linked-list](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -162,4 +163,8 @@
 |  |
 | ------- |
 | [2596-check-knight-tour-configuration](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/2596-check-knight-tour-configuration) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
