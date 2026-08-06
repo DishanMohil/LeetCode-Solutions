@@ -19,6 +19,7 @@
 | [0036-valid-sudoku](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
+| [0138-copy-list-with-random-pointer](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0496-next-greater-element-i](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [3731-find-missing-elements](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
@@ -168,5 +169,6 @@
 ## Linked List
 |  |
 | ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0876-middle-of-the-linked-list](https://github.com/DishanMohil/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
